@@ -1,1 +1,1 @@
-https://github.com/walaaAmaar/websit-temblate/blob/main/index.html
+https://walaaamaar.github.io/websit-temblate/
